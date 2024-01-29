@@ -18,8 +18,8 @@
 ## Listas ordenadas y desordenadas
 - Elemento 1
 - Elemento 2
-1 Elemento 1
-2 Elemento 2
+1. Elemento 1
+2. Elemento 2
 ## Enlaces
 [Texto del enlace](URL de la liga)
 ## Imágenes
